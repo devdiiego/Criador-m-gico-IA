@@ -11,4 +11,4 @@ Este é um projeto web interativo que permite gerar animações CSS de forma aut
 
 ## 📚 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do curso oferecido pelo [**DevClub**](https://devclub.com.br), com foco em práticas de front-end, integração com APIs e automações inteligentes.
+Este projeto foi desenvolvido como parte do curso oferecido pelo**DevClub**, com foco em práticas de front-end, integração com APIs e automações inteligentes.
